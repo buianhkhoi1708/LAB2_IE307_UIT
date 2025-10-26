@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"name": "LAB1_IE307_UIT",
+			"path": "E:/LAB1/LAB1_IE307_UIT"
+		},
+		{
+			"name": "LAB1_IE307_UIT",
+			"path": "../../../hehe/LAB1_IE307_UIT"
+		},
+		{
+			"path": "../../../BUOI5"
+		},
+		{
+			"path": "../../../DOAN"
+		},
+		{
+			"path": "../../../Ecommerce"
+		},
+		{
+			"path": "../../../LAB2_Internet_web-20251014T013848Z-1-001"
+		},
+		{
+			"path": "../../../Lab2_2 - Copy"
+		},
+		{
+			"path": "../../../Lab2_3 - Copy"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../LEARN"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LAB2_Internet_web-20251014T013848Z-1-001",
+		"compile-hero.disable-compile-files-on-did-save-code": true
+	}
+}
